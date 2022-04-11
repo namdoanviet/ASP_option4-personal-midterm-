@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "++i++QTNp3BaYR/JSR9gxioJRSRBiIVRtnYveDvWX54=",
+  "Hash": "ybEGqyqYMeJP2qcYk25Q7s8j2bg1uBEO/3bwC1u9fHU=",
   "Source": "ASP_OPTION4",
   "BasePath": "_content/ASP_OPTION4",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "F:\\nmcnpm\\LearnASP\\ASP_OPTION4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASP_OPTION4.bundle.scp.css"
+    },
+    {
+      "Identity": "F:\\nmcnpm\\LearnASP\\ASP_OPTION4\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "ASP_OPTION4",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\nmcnpm\\LearnASP\\ASP_OPTION4\\wwwroot\\",
+      "BasePath": "_content/ASP_OPTION4",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "F:\\nmcnpm\\LearnASP\\ASP_OPTION4\\wwwroot\\css\\site.css",
