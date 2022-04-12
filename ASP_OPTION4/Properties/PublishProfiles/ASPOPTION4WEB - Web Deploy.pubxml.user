@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjwL8sZmntEO5JPBdVHxZOgAAAAACAAAAAAAQZgAAAAEAACAAAAAkpvpkOgfy/M3RO4J0OA1stnB+H891aVqMhhUn9+qAngAAAAAOgAAAAAIAACAAAAB7cPgWfBUHAdizsxZQ4PZDuWF59XUUWRsmJ4Wq8FjN3IAAAADeXw3URH4aPrtduumT5dIITlo0c9TXqXN8j4Hd9KtwfZLHDa1tZUuiCRqllCD/l1m2tqoeZU8ypseBTuEK93cCNNoEGJwJoBHlgEZ26DlVO/6CCld5sxI35Gr5lbQCttnLrq6bWa3YRX+EeM0j2Ag94Zmy8ixkzwx5IEvQHmy660AAAACQqhByl1QSO2oDbgGrusMjQNKsFdn50TB/kdQCur8md9+uapJ6qBowSYZcqPn8G8e/kIK/+awA78SHkvpAEyPi</EncryptedPassword>
+    <History>False|2022-04-12T06:22:26.5685307Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:aspserver1.database.windows.net,1433%3bInitial Catalog=asp_option4%3bPersist Security Info=False%3bUser ID=admin1%3bPassword=Kimngan149%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ASP_OPTION4.Data.ApplicationDbContext">
+      <Value>Server=tcp:aspserver1.database.windows.net,1433%3bInitial Catalog=asp_option4%3bPersist Security Info=False%3bUser ID=admin1%3bPassword=Kimngan149%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
