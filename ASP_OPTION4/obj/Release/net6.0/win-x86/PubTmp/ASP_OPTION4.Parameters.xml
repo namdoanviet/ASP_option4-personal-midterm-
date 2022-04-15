@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="ASPOPTION4WEB" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\nmcnpm\\LearnASP\\ASP_OPTION4\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\Out\\$" />
-  </parameter>
-  <parameter name="ASP_OPTION4.Data.ApplicationDbContext" description="" value="Server=tcp:aspserver1.database.windows.net,1433;Initial Catalog=asp_option4;Persist Security Info=False;User ID=admin1;Password=Kimngan149;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
-    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^F:\\nmcnpm\\LearnASP\\ASP_OPTION4\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\EFSQLScripts\\ASP_OPTION4\.Data\.ApplicationDbContext\.sql$" />
-  </parameter>
-</parameters>
